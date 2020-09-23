@@ -29,7 +29,7 @@
 				<extensions>true</extensions>
 				<configuration>
 				<cloudHubdeployment>
-				<username>dems1067</username>
+				<username>beka</username>
 				<environment>Sandbox</environment>
 				<workers>1</workers>
 				<workerType>micro</workerType>
