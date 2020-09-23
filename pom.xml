@@ -32,10 +32,10 @@
 				<username>beka</username>
 				<environment>Sandbox</environment>
 				<workers>1</workers>
-				<workerType>micro</workerType>
-				<applicationName>worldtimezonezone-service</applicationName>
-				<password>VbekiV12)%</password>
-				<muleVerstion>4.2.2</muleVerstion>
+				<workerType>Micro</workerType>
+				<applicationName>worldtimezone-app-service</applicationName>
+				<Password>VbekiV12)%</Password>
+				<muleVersion>4.2.2</muleVersion>
 				</cloudHubdeployment>
 				</configuration>
 			</plugin>
